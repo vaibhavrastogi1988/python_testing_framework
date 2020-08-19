@@ -1,0 +1,6 @@
+MySQL-python
+datadog == 0.8.0
+PyVirtualDisplay
+selenium == 3.141.0
+setuptools == 18.0.1
+python_dateutil == 2.4.2
